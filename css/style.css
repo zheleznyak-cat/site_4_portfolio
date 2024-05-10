@@ -249,7 +249,7 @@ iframe {
   height: 221px;
 }
 
-@media screen and (min-device-width:1300px) {
+@media screen and (min-device-width:974px) {
 .project__item {
   margin-left: 40px;
   margin-right: 40px;
